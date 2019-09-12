@@ -1,0 +1,28 @@
+markers = [
+   {
+     "name": "Ikeja Military Cantonment, Lagos, Nigeria",
+     "url": "",
+     "lat": 6.5736334,
+     "lng": 3.3617011
+   },
+   {
+     "name": "Adeniji Adele St, GRA, Ikeja",
+     "url": "",
+     "lat": 6.573490,
+     "lng": 3.349723
+   },
+   {
+     "name": "Oba Akinjobi Way, Ikeja GRA",
+     "url": "",
+     "lat": 6.589335, 
+     "lng": 3.345639
+   },
+
+   {
+     "name": "Ladoke Akintola Rd, Ikeja GRA",
+     "url": "",
+     "lat": 6.582840, 
+     "lng": 3.350766
+   }
+
+];
